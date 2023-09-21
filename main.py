@@ -1,3 +1,7 @@
+/** This is an App that bridge the gap between the millenials and the present technological market
+* It creates a platform that is easy to interact with.
+*/ 
+
 from flask import Flask, render_template, request, redirect, url_for, flash
 from flask_mysqldb import MySQL
 
