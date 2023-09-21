@@ -14,3 +14,11 @@ This project is a Python web application built using the Flask framework, design
 - SQLAlchemy ORM
 - HTML/CSS
 - Bootstrap
+
+- Project Name: Flaskmart
+Introduction:
+Flaskmart is a user-friendly e-commerce platform designed to bridge the generation gap in online shopping. It aims to provide a seamless and accessible shopping experience for both millennials and the elderly. This README.md provides comprehensive information about the Flaskmart project.
+•	Deployed Site: Flaskmart
+•	Author(s) LinkedIn:
+•	https://www.linkedin.com/in/salama-ayuba-b133aa235/
+
