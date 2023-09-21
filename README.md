@@ -1,4 +1,4 @@
-# Flask crud app
+# Flaskmart app
 This project is a Python web application built using the Flask framework, designed to provide a versatile and easy-to-use platform for managing data through a user-friendly web interface.
 
 ## Features
